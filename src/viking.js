@@ -13,7 +13,7 @@ class Soldier {
 }
 
 // Viking
-class Viking {
+class Viking{
   constructor(name, health, strength){
     this.name = name
     this.health = health
